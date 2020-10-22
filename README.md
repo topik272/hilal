@@ -1,3 +1,3 @@
 # hilal
 
-![Screenshot](../1/image001.jpg)
+![Screenshot](/1/image001.jpg)
